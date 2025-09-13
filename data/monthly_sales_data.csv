@@ -1,0 +1,19 @@
+Month,Product,Category,Units Sold,Revenue
+January,Laptop,Electronics,150,150000
+January,Keyboard,Electronics,300,15000
+January,T-Shirt,Apparel,500,12500
+February,Laptop,Electronics,120,120000
+February,Headphones,Electronics,400,20000
+February,Jeans,Apparel,450,22500
+March,Smartphone,Electronics,200,140000
+March,Mouse,Electronics,500,12500
+March,Jacket,Apparel,250,18750
+April,Laptop,Electronics,180,180000
+April,Headphones,Electronics,350,17500
+April,T-Shirt,Apparel,600,15000
+May,Smartphone,Electronics,220,154000
+May,Keyboard,Electronics,280,14000
+May,Jeans,Apparel,400,20000
+June,Monitor,Electronics,100,25000
+June,Mouse,Electronics,450,11250
+June,Jacket,Apparel,300,22500
